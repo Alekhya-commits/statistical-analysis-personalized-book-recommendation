@@ -117,7 +117,7 @@ The overall workflow of the project is:
 
 **Dataset → Data Preprocessing → Exploratory Data Analysis → Statistical Analysis → Recommendation Models → Hybrid Recommendation System → Personalised Book Suggestions**
 
-## 8. Project Structure
+## 8. Repository Directory Structure
 
 ```text
 statistical-analysis-personalized-book-recommendation/
@@ -126,18 +126,7 @@ statistical-analysis-personalized-book-recommendation/
 │
 ├── Book_Recommendation_System.ipynb
 │
-├── requirements.txt
-│
-├── .gitignore
-│
-├── docs/
-│   └── Project_Thesis.pdf
-│
-└── dataset/
-    └── Dataset files or download instructions
-```
-
-*Note: Update the filenames and folder structure according to the files available in the repository.*
+└── Project_Thesis.pdf
 
 ## 9. Installation and Execution
 
@@ -194,18 +183,17 @@ The recommendation system uses the following evaluation metrics:
 
 **Final Model Results:**
 
-- RMSE: Add your verified result.
-- MAE: Add your verified result.
+- **RMSE:** 3.5040
+- **MAE:** 2.8168
 
-*Replace these placeholders with the actual evaluation values obtained from your final executed notebook.*
+These metrics evaluate the difference between the actual user ratings and the ratings predicted by the recommendation model.
 
 ## 11. Project Documentation
 
 The complete academic documentation, including the project methodology, statistical analysis, model development, conclusions, bibliography, and supporting material, is provided separately.
 
-**Project Thesis:** `docs/Project_Thesis.pdf`
+**Project Thesis:** `Major Project Documentation.pdf`
 
-*Update the filename and path if your uploaded thesis has a different name.*
 
 # 12. Future Scope
 
