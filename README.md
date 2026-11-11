@@ -123,10 +123,11 @@ The overall workflow of the project is:
 statistical-analysis-personalized-book-recommendation/
 │
 ├── README.md
-│
-├── Book_Recommendation_System.ipynb
-│
-└── Project_Thesis.pdf
+├── bookrecomdationsystem1.ipynb
+├── Project_Thesis.pdf
+├── PROJECT SYNOPSIS-1.pdf
+├── Project-Persentation1.pdf
+└── Project-Presentation 2.pdf
 
 ## 9. Installation and Execution
 
@@ -192,7 +193,7 @@ These metrics evaluate the difference between the actual user ratings and the ra
 
 The complete academic documentation, including the project methodology, statistical analysis, model development, conclusions, bibliography, and supporting material, is provided separately.
 
-**Project Thesis:** `Major Project Documentation.pdf`
+**Project Thesis:** `Project_Thesis.pdf`
 
 
 # 12. Future Scope
